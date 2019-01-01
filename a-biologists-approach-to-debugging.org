@@ -1,0 +1,29 @@
+* A biologist's approach to debugging
+
+** Status
+Brainstorming
+
+** Notes
+- punnett squares
+  - sufficient knowledge / experience
+  - known / unknowns
+
+- the 
+- setting up and running experiments
+
+- metaphors
+  - gene knockout
+  - ...
+  
+- case study
+
+- Functional programming patterns, offloading various correctness checks to the compiler
+- Bug types
+  - code organization
+  - plugging in correct 
+  
+** Outline
+- ..
+
+** References
+- https://news.ycombinator.com/item?id=18772873
