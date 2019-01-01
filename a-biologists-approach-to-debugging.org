@@ -8,7 +8,10 @@ Brainstorming
   - sufficient knowledge / experience
   - known / unknowns
 
-- the 
+- biologist < scientist
+  - https://xkcd.com/435/
+
+- the experimetnal method
 - setting up and running experiments
 
 - metaphors
@@ -27,3 +30,12 @@ Brainstorming
 
 ** References
 - https://news.ycombinator.com/item?id=18772873
+- https://www.colby.edu/biology/BI17x/expt_method.html
+- https://en.wikibooks.org/wiki/Biology_Laboratory_Techniques
+- https://www.jove.com/science-education-library/2/basic-methods-in-cellular-and-molecular-biology
+- http://csls-text3.c.u-tokyo.ac.jp/active/Appendix_04.html
+- https://www.nap.edu/read/4917/chapter/4
+- http://www.emotionalcompetency.com/sci/sm5.htm
+- https://www.sciencebuddies.org/science-fair-projects/science-fair/steps-of-the-scientific-method
+- https://www.visionlearning.com/en/library/Process-of-Science/49/Experimentation-in-Scientific-Research/150
+- https://en.wikipedia.org/wiki/Scientific_method
